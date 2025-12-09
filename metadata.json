@@ -1,0 +1,5 @@
+{
+  "name": "DocuChat RAG",
+  "description": "Интеллектуальный чат-бот для анализа документов с использованием Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
